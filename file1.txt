@@ -9,3 +9,4 @@ squashAndMerge - edit 8
 squashAndMerge - edit 9
 squashAndMerge - edit 10
 rebaseAndMerge - edit 11
+rebaseAndMerge - edit 12
