@@ -7,3 +7,4 @@ createMergeCommit - edit 6
 createMergeCommit - edit 7
 squashAndMerge - edit 8
 squashAndMerge - edit 9
+squashAndMerge - edit 10
