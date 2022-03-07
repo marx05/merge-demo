@@ -2,3 +2,6 @@ master - edit 1
 master - edit 2
 master - edit 3
 brownbag - edit 4
+createMergeCommit - edit 5
+createMergeCommit - edit 6
+createMergeCommit - edit 7
